@@ -1,0 +1,11 @@
+INSERT INTO `employees` VALUES (1, '小明', 'm', 25, 'master', '787798@qq.com', '20190725');
+INSERT INTO `employees` VALUES (2, '李雷', 'm', 26, 'master', '787798@qq.com', '20190725');
+INSERT INTO `employees` VALUES (3, '韩梅梅', 'w', 26, 'master', '787798@qq.com', '20190725');
+INSERT INTO `employees` VALUES (4, '张三', 'm', 29, 'doctor', '4545434398@qq.com', '20190715');
+INSERT INTO `employees` VALUES (5, '李四', 'm', 26, 'master', '237734398@qq.com', '20190715');
+INSERT INTO `employees` VALUES (6, '小红', 'w', 22, 'bachelor', '787734sdf398@qq.com', '20190715');
+INSERT INTO `employees` VALUES (7, 'Jack', 'm', 25, 'master', '787798@qq.com', '20190725');
+INSERT INTO `employees` VALUES (8, 'Leonard', 'm', 26, 'master', '787798@qq.com', '20190725');
+INSERT INTO `employees` VALUES (9, 'Taylor', 'w', 26, 'master', '787798@qq.com', '20190725');
+INSERT INTO `employees` VALUES (10, 'Sheldon', 'm', 29, 'master', '4545434398@qq.com', '20190715');
+INSERT INTO `employees` VALUES (11, 'Howard', 'm', 26, 'master', '237734398@qq.com', '20190715');
